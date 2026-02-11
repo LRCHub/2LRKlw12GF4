@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Volcano",
+  "base_artist": "U2",
+  "createdAt": "2026-02-11T06:45:40.090606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/01_Volcano_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell It To The Volcano",
+      "artist": "Miniature Tigers",
+      "has_synced": false,
+      "path": "select/02_Tell_It_To_The_Volcano_Miniature_Tigers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/03_Volcano_Beck.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eye of the Volcano",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/04_Eye_of_the_Volcano_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "King Volcano",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/05_King_Volcano_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/06_Volcano_U2.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/07_Volcano_U2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancing On the Lip of a Volcano",
+      "artist": "New York Dolls",
+      "has_synced": true,
+      "path": "select/08_Dancing_On_the_Lip_of_a_Volcano_New_York_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dance on a Volcano",
+      "artist": "Mekong Delta",
+      "has_synced": false,
+      "path": "select/09_Dance_on_a_Volcano_Mekong_Delta.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Voivod",
+      "has_synced": true,
+      "path": "select/10_Volcano_Voivod.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Edie Brickell",
+      "has_synced": true,
+      "path": "select/11_Volcano_Edie_Brickell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/12_Volcano_Swans.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Volcano",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/13_Volcano_Swans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Volcano",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/pl_01_Volcano_U2.txt"
+    }
+  ]
+}
